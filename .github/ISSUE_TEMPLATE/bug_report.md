@@ -1,16 +1,33 @@
-## Bug Report
+---
+name: "Bug Report"
+about: "Report a problem with the project"
+labels: bug
+---
 
-**Describe the bug**
-A clear and concise description of the problem.
 
-**To Reproduce**
+# Bug Report 🐛
+
+## **Describe the bug**
+A clear and concise description of what the bug is.
+
+## **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
-3. See error
+3. Scroll down to '....'
+4. See error
 
-**Expected behavior**
-A description of what you expected to happen.
+## **Expected behavior**
+A clear and concise description of what you expected to happen.
 
-**Additional Information**
-OS, browser, versions, etc.
+## **Screenshots (if applicable)**
+If applicable, add screenshots to help explain your problem.
+
+## **System Information**
+- **OS:** [e.g., Windows 11, Ubuntu 22.04]
+- **Browser (if applicable):** [e.g., Chrome 100, Firefox 95]
+- **Node.js Version:** [e.g., 16.x]
+- **Additional Information:** Any other details
+
+## **Additional context**
+Add any other relevant information about the problem.
