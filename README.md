@@ -1,5 +1,5 @@
-# Yofumo
-For layer 2 solutions and troubleshooting
+# Yofumo on Github
+A layer two troubleshooting resource
 
 
 ### Notes
