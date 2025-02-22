@@ -3,7 +3,7 @@
 ### Index:
 -----
 
-#### In System
+#### In System:
 
 - Pro+ Yeast & Mold Fast
 - Pro+ Yeast & Mold Slow
@@ -19,7 +19,7 @@
 - Dry Flower, Pro+, 10-25lbs
 - Dry Flower, Pro+, 25-40lbs
 
-#### Not In System
+#### Not In System:
 
 - Time Weight 30
 - Time Weight 30
