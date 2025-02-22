@@ -1,6 +1,6 @@
 ---
 name: "Bug Report"
-about: "Report a problem with the project"
+about: "Report a problem with the platform"
 labels: bug
 ---
 
