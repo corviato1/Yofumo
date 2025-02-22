@@ -9,9 +9,6 @@
 
 #### [Hardware Specs](https://github.com/corviato1/Yofumo/tree/main/hardware_specs)
 
+#### [Report Issue](https://github.com/corviato1/Yofumo/issues)
 
-### Notes
 
-
-Protocol: Simple Test
-- Upgrade: reporting index page. Custom Alert (system or email) settings
