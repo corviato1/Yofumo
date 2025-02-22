@@ -1,11 +1,11 @@
 ---
-name: "Documentation Update"
-about: "Suggest improvements or report errors in the documentation"
-labels: documentation
+name: "Platform Upgrade"
+about: "Suggest improvements to various aspects of the platform"
+labels: Upgrade
 ---
 
 
-# Platform Update 📖
+# Platform Upgrade 📖
 
 ## **Describe why the update is needed**
 A clear and concise description of what is wrong or missing.
