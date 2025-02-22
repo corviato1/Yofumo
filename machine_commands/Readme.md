@@ -4,6 +4,6 @@
 ### Index:
 -----
 
-#### Pre Configured Cycles
+#### [Pre Configured Cycles](https://github.com/corviato1/Yofumo/tree/main/machine_commands/Pre_Configured_Cycles)
 
-#### Pre Configured Batch Cycles
+#### [Pre Configured Batch Cycles](https://github.com/corviato1/Yofumo/tree/main/machine_commands/Pre_Configured_Batch_Cycles)
