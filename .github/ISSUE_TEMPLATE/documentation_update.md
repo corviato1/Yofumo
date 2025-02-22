@@ -11,7 +11,7 @@ labels: documentation
 A clear and concise description of what is wrong or missing.
 
 
-## **How to improve**
+## **How to Improve**
 Explain how the platform can be improved.
 
 
