@@ -9,5 +9,5 @@
 
 #### Not In System:
 
-- Harlan Special
-- Joe's Cure
+- [Harlan Special](https://github.com/corviato1/Yofumo/blob/main/machine_commands/Pre_Configured_Batch_Cycles/Harlan_Special.sh)
+- [Joe's Cure](https://github.com/corviato1/Yofumo/blob/main/machine_commands/Pre_Configured_Batch_Cycles/Joes_Cure.sh)
