@@ -1,13 +1,13 @@
 # Yofumo on Github
 A layer two troubleshooting resource
 
-## [Reach out directly]()
+#### [Reach out directly]()
 
-## [Machine Commands]()
+#### [Machine Commands]()
 
-## [Hardware Specs]()
+#### [Hardware Specs]()
 
-## [Product Line]()
+#### [Product Line]()
 
 
 
