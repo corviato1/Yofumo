@@ -1,18 +1,18 @@
 # Yofumo on Github
 A layer two troubleshooting resource
 
-#### [Reach out directly]()
+#### [Reach out directly](https://yofumo.com/contact-us/)
 
 #### [Machine Commands](https://github.com/corviato1/Yofumo/tree/main/machine_commands)
 
-#### [Product Line]()
+#### [Product Line](https://github.com/corviato1/Yofumo/tree/main/products)
 
-#### [Hardware Specs]()
+#### [Hardware Specs](https://github.com/corviato1/Yofumo/tree/main/hardware_specs)
 
 
 ### Notes
 1. Name: Harlan Special
-- Batch command for: Warmup Up Cycle, 3x Bacterial Reduction Cycle, 3x 
+
 
 2. Name: c
 3. 
