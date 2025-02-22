@@ -7,27 +7,28 @@ labels: bug
 
 # Bug Report 🐛
 
-## **Describe the bug**
-A clear and concise description of what the bug is.
+## **List Machine Name**
 
-## **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-## **Expected behavior**
-A clear and concise description of what you expected to happen.
+## **List Issue Overview Below**
+
+
+## **List Details of the Issue Below**
+
+
+## **To Reproduce Issue**
+1. List all steps, in order, to reproduce the issue:
+
+
+2. If applicable, list error code:
+
+
+3. Clear and concise description of what you expected to happen:
+
 
 ## **Screenshots (if applicable)**
 If applicable, add screenshots to help explain your problem.
 
-## **System Information**
-- **OS:** [e.g., Windows 11, Ubuntu 22.04]
-- **Browser (if applicable):** [e.g., Chrome 100, Firefox 95]
-- **Node.js Version:** [e.g., 16.x]
-- **Additional Information:** Any other details
 
 ## **Additional context**
 Add any other relevant information about the problem.
