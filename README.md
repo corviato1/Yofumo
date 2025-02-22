@@ -3,13 +3,11 @@ A layer two troubleshooting resource
 
 #### [Reach out directly]()
 
-#### [Machine Commands]()
-
-#### [Hardware Specs]()
+#### [Machine Commands](https://github.com/corviato1/Yofumo/tree/main/machine_commands)
 
 #### [Product Line]()
 
-
+#### [Hardware Specs]()
 
 
 ### Notes
