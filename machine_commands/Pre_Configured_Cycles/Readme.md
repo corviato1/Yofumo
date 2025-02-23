@@ -24,5 +24,5 @@
 
 #### Not In System:
 
-- Time Wait 60
-- Time Wait 30
+- [Time Wait 60](https://github.com/corviato1/Yofumo/blob/main/machine_commands/Pre_Configured_Cycles/Time_Wait_60.sh)
+- [Time Wait 30](https://github.com/corviato1/Yofumo/blob/main/machine_commands/Pre_Configured_Cycles/Time_Wait_30.sh)
