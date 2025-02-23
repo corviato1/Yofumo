@@ -5,19 +5,19 @@
 
 #### In System:
 
-- Air Circulation Cycle
-- Bacterial Reduction Cycle
-- Decon 1 - Pro
-- Decon 2 - Pro
-- Decon 3 - Pro
-- Dry Flower, Pro+, 10-25lbs
-- Dry Flower, Pro+, 25-40lbs
-- Pro Yeast & Mold Fast
-- Pro Yeast & Mold Slow
-- Pro+ Yeast & Mold Fast
-- Pro+ Yeast & Mold Slow
-- Simple Test
-- Warm Up Cycle
+- [Air Circulation Cycle]
+- [Bacterial Reduction Cycle]
+- [Decon 1 - Pro]
+- [Decon 2 - Pro]
+- [Decon 3 - Pro]
+- [Dry Flower, Pro+, 10-25lbs]
+- [Dry Flower, Pro+, 25-40lbs]
+- [Pro Yeast & Mold Fast]
+- [Pro Yeast & Mold Slow]
+- [Pro+ Yeast & Mold Fast]
+- [Pro+ Yeast & Mold Slow]
+- [Simple Test]
+- [Warm Up Cycle]
 
 
 
