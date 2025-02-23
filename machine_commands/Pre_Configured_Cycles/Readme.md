@@ -21,5 +21,5 @@
 
 #### Not In System:
 
-- Time Weight 60
-- Time Weight 30
+- Time Wait 60
+- Time Wait 30
