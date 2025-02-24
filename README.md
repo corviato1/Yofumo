@@ -12,4 +12,3 @@
 #### [Report Issue](https://github.com/corviato1/Yofumo/issues)
 
 
-<a href="https://yofumo.com/contact-us/" target="_blank">Reach out directly</a>
